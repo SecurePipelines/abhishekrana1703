@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Buy Referrals for Blum Telegram Bot?](https://medium.com/@DevSec0ps/how-to-buy-referrals-for-blum-telegram-bot-1f35b2f37629?source=rss-c033cbfabdbb------2)
 - [Get Ahead with Referrals for Telegram Bots: Hamster Combat, Tapswap, Blum, Catizen, Hot Wallet…](https://medium.com/@DevSec0ps/get-ahead-with-referrals-for-telegram-bots-hamster-combat-tapswap-blum-catizen-hot-wallet-ba13732dc126?source=rss-c033cbfabdbb------2)
 - [Working with IDS/IPS: Write up, Walkthrough, Answers [HackTheBox, HTB]](https://medium.com/@DevSec0ps/working-with-ids-ips-write-up-walkthrough-answers-hackthebox-htb-116c58ce942b?source=rss-c033cbfabdbb------2)
 - [How to Buy Referrals for Telegram Bots Like Hamster Combat, Tapswap, Blum, Catizen, Hot Wallet, or…](https://medium.com/@DevSec0ps/how-to-buy-referrals-for-telegram-bots-like-hamster-combat-tapswap-blum-catizen-hot-wallet-or-f36c80c59263?source=rss-c033cbfabdbb------2)
 - [CI/CD with AWS+Docker+Ansible+Jenkins](https://medium.com/@DevSec0ps/ci-cd-with-aws-docker-ansible-jenkins-93a549140761?source=rss-c033cbfabdbb------2)
-- [Custom Alert Rules in Wazuh | THM TryHackMe | Write Up | Walkthrough](https://medium.com/@DevSec0ps/custom-alert-rules-in-wazuh-thm-tryhackme-write-up-walkthrough-f3619a1a5017?source=rss-c033cbfabdbb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -1,43 +1,21 @@
-![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg)
-<h1 align="center">Hi There, I'm Abhishek</h1>
-<h3 align="center">DevOps Community Builder | DevOps Engineer @Quest Diagnostics | Docker | Linux | Jenkins | GitLab CI-CD | GitHub Action| IBM Urban Code Deploy | AWS | Git | Terraform | Ansible | Kubernetes |Technical Blogger | Ex- Wipro | Passionate about writing Technical Blogs on various DevOps concepts.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2022/08/31/08/22/08-22-29-904_512.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekrana1703&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekrana1703" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekrana0317) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@me.abhishekrana0317) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ranaabhishek_17) 
 
-<p align="left"> <a href="https://twitter.com/ranaabhishek_17" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek rana?logo=twitter&style=for-the-badge" alt="misalpavv" /></a> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhishekrana1703&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekrana1703&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekrana1703&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently **learning Python, Kubernetes**
-- 📝 I regularly write articles on **Various DevOps Concepts**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abhishekrana1703&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 💬 You can ask me about **Linux, Docker, Jenkins, AWS, Terraform**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abhishekrana1703&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- ⚡ Fun fact **"If you're waiting for the waiter, does that make you the waiter!!!"**
+---
+[![](https://visitcount.itsvg.in/api?id=abhishekrana1703&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Buy Referrals for Blum Telegram Mini App?](https://medium.com/@DevSec0ps/how-to-buy-referrals-for-blum-telegram-mini-app-c8e0b1d31a60?source=rss-c033cbfabdbb------2)
-- [Gate.io and OKX Announce New Listing: Catizen &lpar;CATI&rpar; — Spot Trading Starts September 20th!](https://medium.com/@DevSec0ps/gate-io-and-okx-announce-new-listing-catizen-cati-spot-trading-starts-september-20th-5b62c8b388cf?source=rss-c033cbfabdbb------2)
-- [How to Buy Referrals for Blum Telegram Bot?](https://medium.com/@DevSec0ps/how-to-buy-referrals-for-blum-telegram-bot-1f35b2f37629?source=rss-c033cbfabdbb------2)
-- [Get Ahead with Referrals for Telegram Bots: Hamster Combat, Tapswap, Blum, Catizen, Hot Wallet…](https://medium.com/@DevSec0ps/get-ahead-with-referrals-for-telegram-bots-hamster-combat-tapswap-blum-catizen-hot-wallet-ba13732dc126?source=rss-c033cbfabdbb------2)
-- [Working with IDS/IPS: Write up, Walkthrough, Answers [HackTheBox, HTB]](https://medium.com/@DevSec0ps/working-with-ids-ips-write-up-walkthrough-answers-hackthebox-htb-116c58ce942b?source=rss-c033cbfabdbb------2)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishekrana0317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishekrana0317//" height="30" width="40" /></a>
-<a href="https://abhishekrana.tech/" target="blank"><img align="center" src="https://github.com/abhishekrana1703/Images/blob/main/hashnod.png" alt="https://www.linkedin.com/in/abhishekrana0317//" height="30" width="40" /></a>
-
-<h3 align="left">Experienced with:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=DhruvinSoni30&show_icons=true) 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvinsoni30&" alt="dhruvinsoni30" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvinsoni30&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvinsoni30" /> </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvinSoni30)](https://github.com/DhruvinSoni30/github-readme-stats)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvinsoni30" alt="dhruvinsoni30" /></a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

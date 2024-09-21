@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-**🔭 I’m currently learning Python, GitHub Actions**br>
-📝 I regularly write articles on various DevOps concepts<br>
-💬 You can ask me about Linux, Docker, Jenkins, AWS, Terraform<br>
-🌟 I’m passionate about automating processes to increase efficiency<br>
-🌍 When I’m not coding, you can find me exploring new tech trends and collaborating with fellow tech enthusiasts<br>
-⚡ Fun fact: "If you're waiting for the waiter, does that make you the waiter?!"
+**🔭 I’m currently learning Python, GitHub Actions**<br>
+**📝 I regularly write articles on various DevOps concepts**<br>
+**💬 You can ask me about Linux, Docker, Jenkins, AWS, Terraform**<br>
+**🌟 I’m passionate about automating processes to increase efficiency**<br>
+**🌍 When I’m not coding, you can find me exploring new tech trends and collaborating with fellow tech enthusiasts**<br>
+**⚡ Fun fact: "If you're waiting for the waiter, does that make you the waiter?!"**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekrana0317) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@me.abhishekrana0317) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ranaabhishek_17) 

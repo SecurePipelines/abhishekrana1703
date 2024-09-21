@@ -7,11 +7,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Buy Referrals for Blum Telegram Mini App?](https://medium.com/@DevSec0ps/how-to-buy-referrals-for-blum-telegram-mini-app-c8e0b1d31a60?source=rss-c033cbfabdbb------2)
-- [Gate.io and OKX Announce New Listing: Catizen &lpar;CATI&rpar; — Spot Trading Starts September 20th!](https://medium.com/@DevSec0ps/gate-io-and-okx-announce-new-listing-catizen-cati-spot-trading-starts-september-20th-5b62c8b388cf?source=rss-c033cbfabdbb------2)
-- [How to Buy Referrals for Blum Telegram Bot?](https://medium.com/@DevSec0ps/how-to-buy-referrals-for-blum-telegram-bot-1f35b2f37629?source=rss-c033cbfabdbb------2)
-- [Get Ahead with Referrals for Telegram Bots: Hamster Combat, Tapswap, Blum, Catizen, Hot Wallet…](https://medium.com/@DevSec0ps/get-ahead-with-referrals-for-telegram-bots-hamster-combat-tapswap-blum-catizen-hot-wallet-ba13732dc126?source=rss-c033cbfabdbb------2)
-- [Working with IDS/IPS: Write up, Walkthrough, Answers [HackTheBox, HTB]](https://medium.com/@DevSec0ps/working-with-ids-ips-write-up-walkthrough-answers-hackthebox-htb-116c58ce942b?source=rss-c033cbfabdbb------2)
+- [DevOps : What, When &amp; Why](https://medium.com/@me.abhishekrana0317/devops-what-when-why-4ea2610ca646?source=rss-497863f0d13b------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:

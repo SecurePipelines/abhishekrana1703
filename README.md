@@ -1,6 +1,6 @@
 # 💫 About Me:
-💫 About Me:<br>
-🔭 I’m currently learning Python, GitHub Actions<br>
+
+**🔭 I’m currently learning Python, GitHub Actions**br>
 📝 I regularly write articles on various DevOps concepts<br>
 💬 You can ask me about Linux, Docker, Jenkins, AWS, Terraform<br>
 🌟 I’m passionate about automating processes to increase efficiency<br>

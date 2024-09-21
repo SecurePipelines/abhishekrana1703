@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently **learning Python, GitHub Actions**<br>📝 I regularly write articles on **Various DevOps Concepts**<br>💬 You can ask me about **Linux, Docker, Jenkins, AWS, Terraform**<br>⚡ Fun fact **"If you're waiting for the waiter, does that make you the waiter!!!"**
+🔭 I’m currently learning Python and GitHub Actions, continuously exploring new tools and technologies in the DevOps landscape.
+📝 I regularly write articles on various DevOps concepts, sharing insights and best practices to help others in their journeys.
+💬 Feel free to ask me about Linux, Docker, Jenkins, AWS, and Terraform; I love discussing solutions to real-world challenges.
+🌟 I'm passionate about automating processes to increase efficiency and productivity.
+⚡ Fun fact: "If you're waiting for the waiter, does that make you the waiter?!"
+🌍 When I’m not coding, you can find me exploring new tech trends, attending webinars, or collaborating with fellow tech enthusiasts.
 
 
 ## 🌐 Socials:

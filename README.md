@@ -1,10 +1,9 @@
 # 💫 About Me:
 
-**🔭 I’m currently learning Python, GitHub Actions**<br>
-**📝 I regularly write articles on various DevOps concepts**<br>
-**💬 You can ask me about Linux, Docker, Jenkins, AWS, Terraform**<br>
-**🌟 I’m passionate about automating processes to increase efficiency**<br>
-**🌍 When I’m not coding, you can find me exploring new tech trends and collaborating with fellow tech enthusiasts**<br>
+**🛠️ I love writing about DevOps—breaking down complex topics into practical insights**<br>
+**💬 Ask me anything about Linux, Docker, Jenkins, AWS, Terraform, FinOps, or Infrastructure as Code (IaC)**<br>
+**⚙️ Automation is my game—I’m driven by the challenge of making things faster, smarter, and more efficient**<br>
+**🌍 Off the clock, I’m usually geeking out on the latest tech trends or teaming up with like-minded developers**<br>
 **⚡ Fun fact: "If you're waiting for the waiter, does that make you the waiter?!"**
 
 ## 🌐 Socials:
